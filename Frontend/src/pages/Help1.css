@@ -1,0 +1,107 @@
+
+.help1{
+    margin-top: -125px;
+   background: linear-gradient(to right,rgba(0,0,0,0.3),#000 90%);
+    background-size: cover;
+    position: relative;
+    z-index: 2;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height:initial;
+    height: 20vh;
+  }
+  .imglogo{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+  }
+  .input{
+    border-radius: 10px;
+    width: 200%;
+    margin-left: -40%;
+    height: 6vh;
+  }
+  .input1{
+    position: relative;
+  }
+  .input1 img{
+    width: 30px;
+    bottom: 7px;
+    position: absolute;
+    left: 265px;
+    height: 25px;
+    border-radius: 25px;
+  }
+  .main7{
+    background-color: #f9e9cc;
+    width: 75%;
+    margin-top: 3%;
+    margin-left: 12%;
+  }
+  .borde{
+    border-style: solid;
+    color: gray;
+  }
+  .borde1{
+    border-bottom-style: solid;
+    border-color:gray;
+    color: gray;
+  }
+  .mbox2{
+    margin-left: 12%;
+  
+  }
+  .mbox3{
+    margin-left: 5%;
+  }
+  .tvlogo{
+    width: 25%;
+    margin-left: 35%;
+    height: 22vh;
+  }
+  .tv{
+    background-color: #181818;
+    margin-left: 12%;
+    color: white;
+  }
+  .click{
+    color: white;
+    width: 120px;
+    border-radius: 25px;
+  }
+  .bu2{
+    width: 30px;
+    bottom: -38%;
+    position: absolute;
+    left: 120px;
+    height: 24px;
+    border-radius: 25px;
+  }
+  .got{
+    width: 17%;
+    border-radius: 25px;
+    color: white;
+  }
+  .button5{
+    margin-left: 12%;
+  }
+  .terms3{
+    margin-left: 12%;
+    color: red;
+  }
+  .help{
+    background-color: #181818;
+    margin-top: -30px;
+  }
+  .center{
+    color: white;
+  }
+  .bu3{
+    width: 23px;
+    bottom: -56%;
+    position: absolute;
+    left: 120px;
+    height: 24px;
+    border-radius: 25px;
+  }

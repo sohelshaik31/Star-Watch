@@ -1,0 +1,211 @@
+.pay{
+    height: 120vh;
+    background-color: black;
+    padding: 4% ;
+    padding-top: 3%;
+}
+.pay-nav{
+    height: 10%;
+    align-items: center;
+}
+.pay-nav img{
+    height: 80px;
+}
+.pay-nav select,button{
+    width: 130px;
+    height: 50px;
+    margin: 20px;
+}
+.pay-nav select{
+   margin-left: 200px;
+}
+.pay-nav select, select option{
+    background-color: rgb(16, 16, 16);
+    color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.pay-main1{
+    width: 43%;
+    height: 95%;
+    margin-top: 9%;
+    overflow: hidden;
+}
+.pay-main1 img{
+    width: 120px;
+    height: 120px;
+    animation: marquee 8s linear infinite;
+}
+@keyframes marquee {
+    100%{
+        transform: translateY(100%);
+    }
+    100%{
+        transform: translateY(-100%);
+    }
+}
+.pay-trans{
+    width: 45%;
+    height: 85%;
+    position: relative;
+    z-index: 2;
+    margin-top: -54%;
+    background: linear-gradient(to top, rgba(0,0,0,0.3), #000 90%);
+    
+}
+.pay-title{
+    color: rgb(226, 219, 219);
+    position: relative;
+    z-index: 3;
+    margin-top: -49%;
+    margin-left: 10px;
+}
+.pay-main2{
+    width: 55%;
+    height: 106%;
+    margin-left: 45%;
+    margin-top: -110px;
+    background-color: #0f0f0f;
+}
+.pay-inner1{
+    width: 45%;
+    padding-top: 10%;
+    color: rgb(226, 219, 219);
+    padding-left: 4%;
+}
+.pay-inner2{
+    width: 55%;
+}
+.pay-inside1,.pay-inside2{
+    width: 50%;
+    height: 85%;
+    color: rgb(194, 185, 185);
+    padding-top: 3%;
+    text-align: center;
+    background-color: rgb(41, 40, 40);
+}
+.pay-inside1 h3,.pay-inside2 h3{
+    color: rgb(255, 174, 0);
+}
+.icon1{
+    width: 15%;
+}
+.pay-btn1 img{
+    width: 10px;
+}
+.pay-btn1{
+    width: 90%;
+    margin-left: 10px;
+    border: 2px solid rgb(255, 174, 0);
+    cursor: pointer;
+}
+.pay-total{
+    height: 140vh;
+    background-color: black;
+}
+.btn-final{
+    width: 140%;
+    margin-top: 29%;
+    margin-left: 46%;
+    cursor: pointer;
+    border: transparent;
+}
+.pay-inner1 .btn-pre{
+   margin-top: -10px;
+}
+.pay-inner1 .btn-final,.btn-pre{
+    position: relative;
+    z-index: 2;
+}
+.btn-mod{
+    width: 50%;
+    margin-left: 120px;
+}
+
+/* Payments.css */
+
+.modal-body {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .card-element {
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .card-element input {
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .btn-final {
+    background-color: #dc3545;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .btn-final:hover {
+    background-color: #c82333;
+  }
+  
+  .modal-footer {
+    padding: 15px;
+  }
+  
+  .modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .modal-content {
+    border-radius: 8px;
+  }
+  
+  .modal-header {
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .modal-header .close {
+    font-size: 1.5rem;
+    color: #000;
+  }
+  
+  .modal-body h5 {
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+  }
+  
+  .modal-body p {
+    font-size: 1rem;
+    color: #495057;
+  }
+  
+  .payment-details {
+    margin-bottom: 20px;
+  }
+  
+  .payment-details h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .payment-details p {
+    font-size: 1rem;
+  }
+  
+  .payment-amount {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #dc3545;
+  }
+  

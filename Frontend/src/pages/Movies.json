@@ -1,0 +1,126 @@
+[
+    {
+        "id":1,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1717266022960.jpg",
+        "title":"Game of Thrones"
+    },
+    
+    {
+        "id":2,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1720647413147.jpg",
+        "title":"Train to Busan"
+    },
+    
+    {
+        "id":3,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1721925620600.jpg",
+        "title":"Naa Saami Ranga"
+    },
+    
+    {
+        "id":4,
+        "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7adf150-23dc-47b1-93d0-c3462c6f3395/dgd67ky-3ee29324-4dac-4c9c-9076-0768d1f05b9b.jpg/v1/fill/w_1280,h_1920,q_75,strp/default_design_a_gripping_poster_featuring_luffy_f_by_designquilll_dgd67ky-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkyMCIsInBhdGgiOiJcL2ZcL2E3YWRmMTUwLTIzZGMtNDdiMS05M2QwLWMzNDYyYzZmMzM5NVwvZGdkNjdreS0zZWUyOTMyNC00ZGFjLTRjOWMtOTA3Ni0wNzY4ZDFmMDViOWIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.gqXRw5wtRz20W-yz6qnpaeFpHTuTR53nltmNUhmw05o",
+        "title":"One Piece"
+    },
+    
+    {
+        "id":5,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/petta-3x4-1713860700256.jpg",
+        "title":"Petta"
+    },
+    {
+        "id":6,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/hp1_3x4-1687867593695.jpg",
+        "title":"Harry Porter 1"
+    },
+    {
+        "id":7,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/hp3x4-1687867620855-1716306193626-1716376773993.jpg",
+        "title":"Harry Porter 2"
+    },
+    {
+        "id":8,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1725635858403.jpg",
+        "title":"Demon Slayer"
+    },
+    {
+        "id":9,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1719659051619.jpg",
+        "title":"Tokyo Revengers"
+    },
+    {
+        "id":10,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1703676311201.jpg",
+        "title":"Spider Man"
+    },
+    {
+        "id":11,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1718264731429.jpg",
+        "title":"Bhagavanth Kesari"
+    },
+    {
+        "id":12,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4warrior-1714669489518.jpg",
+        "title":"The Warrior"
+    },
+    {
+        "id":13,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-hanuman-1725621464346.jpg",
+        "title":"Hanuman"
+    },
+    {
+        "id":14,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/01_3x4-1699888019264.jpg",
+        "title":"Pokemon"
+    },
+    {
+        "id":15,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/vikram_vedha_3x4-1713964159968.jpg",
+        "title":"Vikram Vedha"
+    },
+    {
+        "id":16,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/oppenheimer-3x4-1712046716651.jpg",
+        "title":"Oppenheimer"
+    },
+    {
+        "id":17,
+        "image":"https://sm.ign.com/ign_es/gallery/s/stranger-t/stranger-things-season-4-location-posters_br7s.jpg",
+        "title":"Stranger Things"
+    },
+    {
+        "id":18,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/asur-2-3x4-1716903168539.jpg",
+        "title":"Asur 2"
+    },
+    {
+        "id":19,
+        "image":"https://picfiles.alphacoders.com/455/thumb-1920-455526.jpg",
+        "title":"Death note"
+    },
+    {
+        "id":20,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/ipl_show_page_vertical-1703009210817.jpg",
+        "title":"IPL"
+    },
+    {
+        "id":21,
+        "image":"https://posterspy.com/wp-content/uploads/2020/06/Haikyu-Poster-small.png",
+        "title":"Haikyu"
+    },
+    {
+        "id":22,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/3x4-1720079213004.jpg",
+        "title":"Saindhav"
+    },
+    {
+        "id":23,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/hp3_3x4-1687867653460.jpg",
+        "title":"Harry Porter 3"
+    },
+    {
+        "id":24,
+        "image":"https://v3img.voot.com/resizeMedium,w_256,h_341/v3Storage/assets/dexter-3x4-1689221957916.jpg",
+        "title":"Dexter"
+    }
+]

@@ -1,0 +1,28 @@
+.movie-details {
+     /* Center align the content */
+    padding: 20px;
+  }
+  
+  .movie-image-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin-bottom: 20px;
+  }
+  
+  .movie-image {
+    width: 100%;  /* Set the width */
+    height: 25%; /* Set the height */
+    object-fit: cover; /* Maintain aspect ratio while covering the area */
+  }
+  
+  .movie-logo {
+    width: 150px;
+    height: 75px;
+    margin-top: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+    color: white;
+  }
+  

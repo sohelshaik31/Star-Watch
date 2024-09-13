@@ -1,0 +1,145 @@
+.nav{
+    background-color:#0b0706;
+    height: 70px;
+    width:100%;
+    color: white;
+    justify-content:space-between;
+    
+  
+    display: flex;
+    padding: 1px;
+    }
+    .searchbar
+    {padding: 1px;
+        height:30px;
+        width:40%;
+        margin-top: 3px;
+        margin-left: 30px;
+    border-radius: 5px;
+    background-color:#28292a;
+    color:white;
+    }
+    .signin
+    {display: flex;
+        color: white;
+       
+        background-color: #e44e20;
+        padding: 2px;
+     
+        border-radius: 10px;
+        height: 29px;
+        
+    }
+
+  .footer
+  {
+    background-color: #212121;
+    display: flex;
+   padding: 15px;
+  }
+  .left{
+    width:27%;
+    color: white;
+  }
+  .fleft
+  {
+justify-content: space-evenly;
+  }
+  .sleft
+  {
+    display: flex;
+  }
+  .ico
+  {
+    width:25vh;
+    margin-right: 10px;
+  }
+  .ico2{
+    margin-right: 10px;
+  }
+  .right
+  {
+    width:73%;
+    color:wheat;
+    display:flex;
+  }
+  .box{
+    width:25%;
+  }
+  .p
+  {
+    color: white;
+  }
+  .logo1
+  {
+    width:180px;
+    height:45px;
+  }
+.searchbar input::placeholder{
+  color:blue;
+
+}
+.signin a{
+  text-decoration: none;
+  color: white;
+  border: none !important;
+  width: auto !important;
+  background-color: transparent !important;
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+.inf{
+  margin-top: 4px;
+  width:80%;
+  justify-content:space-between;
+  display: flex;
+  margin-right: 30px;
+}
+.nav button{
+  padding: 0;
+  width: 8%;
+}
+.model{
+  background-color: #eeeceba6;
+  color: rgb(57, 117, 90);
+}
+.b1
+{
+  width:45%;
+  margin-left:40px;
+}
+.t {
+background-color: rgb(222, 38, 38);
+}
+.logo5
+{
+ height:70px;
+}
+
+.ab{
+  margin-left:-30px;
+}
+.bill
+{
+  margin-right:-250px;
+  margin-left: 140px;
+}
+.inf a{
+  text-decoration: none;
+  color: #fff;
+  background: transparent;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+  width: 100px;
+  height: 30px;
+  display: flex;
+  background-color: #0d0d0d;
+  justify-content: center;
+  margin: 0 10px;
+}
+.inf a:hover{
+  border:0;
+  box-shadow: 0 0 3px #ff0505, 0 0 7px #ff0505, 0 0 20px #ed0505;
+}

@@ -1,0 +1,78 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+.main {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.body::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+.body {
+    scrollbar-width: none;
+}
+.body {
+    -ms-overflow-style: none;
+}
+.img1, .img2, .img3, .img4, .img5 {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.list1 {
+    width: 100%;
+    height: 25%;
+    padding: 2%;
+    background-color: black;
+    overflow-y: hidden;
+}
+.list2 {
+    height: 60%;
+    background-color: rgb(0, 0, 0);
+    padding-left: 3%;
+    padding-right: 3%;
+    overflow-y: hidden;
+}
+.list2-inner {
+    height: 80%;
+    padding: 1%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.list2-inner::-webkit-scrollbar {
+    width: 2px;
+}
+.list2-inner div img {
+    width: 220px;
+    /* height: 280px; */
+    transition: 0.5s;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.list2-inner div img:hover {
+    transform: scale(1.03);
+    z-index: 2;
+}
+/* .list2 .list2-inner img {
+    width: 220px;
+    margin-left: 15px;
+    margin-right: 15px;
+} */
+html, body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}

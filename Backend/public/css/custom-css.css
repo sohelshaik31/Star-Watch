@@ -1,0 +1,93 @@
+.logo
+{
+    height: 50px;
+}
+.search
+{
+    background-color: white;
+    width:40%;
+    height:40px
+
+}
+.icon
+{background-color: transparent;
+ width: 30px;
+ height: 40px;
+}
+
+.search .input
+{
+    width:70%;
+}
+.cart
+{
+    width:40px;
+}
+.nav
+{
+    justify-content: space-between;
+    
+}
+.nav1
+{
+    justify-content: space-between;
+  
+    background-color: rgb(120, 114, 114);
+}
+
+.nav *
+{
+    margin: 0px;
+}
+.image2
+{
+    width:30px;
+height:30px;
+}
+.content
+{
+    margin-top:0px;
+}
+.button
+{
+    background-color: transparent;
+    color: white;
+}
+.logo2
+{
+    height:80px;
+    width: 90px;
+   margin-left: 100vh ;
+ 
+}
+.logo1
+{
+    height:60px;
+    width: 70px;
+   margin-left: 27vh ;
+ 
+}
+.sidebar
+{
+    height: 300vh;
+    width: 50vh;
+    background-color:#ffffff;
+    position: fixed;
+    
+    top: 80px;
+    left:0px;
+    
+}
+.modal
+{
+    background-color: #ffffff;
+    left: 80vh;
+    top:11vh;
+    position:fixed;
+    width:360px;
+    height:390px;
+}
+.box
+{
+    margin-top: px;
+}

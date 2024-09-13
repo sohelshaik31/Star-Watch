@@ -1,0 +1,33 @@
+.welcome{
+    margin-top: -95%;
+    color: white;
+    margin-left: 5%;
+  }
+  .bol{
+    border: none;
+    width:180px;
+    height:90px
+  }
+  .new{
+    margin-top: 400px;
+    color: white;
+    margin-left: 5%;
+  }
+  .allin{
+    margin-top: 37%;
+    margin-left: 5%;
+  }
+  .slogo{
+    margin-top: 500px;
+  }
+  .slogo img{
+    width: 30%;
+    padding: 5px;
+    margin: 2px;
+    box-sizing: inherit;
+    transition: 0.8s;
+  }
+  .slogo img:hover{
+    width: 30.5%;
+    box-shadow: 5px 5px 5px;
+  }
